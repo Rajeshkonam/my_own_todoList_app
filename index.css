@@ -1,0 +1,64 @@
+.heading1{
+    text-align: center;
+}
+.input{
+    margin-bottom: 15px;
+    width: 93%;
+    height: 40px;
+    border: 2px solid #BBBBB9;
+    border-radius: 6px;
+    border-color: #BBBBB9;
+}
+.div1{
+    padding: 20px;
+}
+.addBtn{
+    background-color: #4AC9FC;
+    color: white;
+    border-width: 0px;
+    border-radius: 4px;
+    width: 60px;
+    height: 30px;
+    font-weight: 700;
+}
+.saveBtn{
+    background-color: #33F56E;
+        color: white;
+        border-width: 0px;
+        border-radius: 4px;
+        width: 60px;
+        height: 30px;
+        font-weight: 700;
+}
+.todoLiElement{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+.labelContainer{
+    display: flex;
+    flex-direction: row;
+    background-color: #B9F5EF;
+    justify-content: space-between;
+    width: 88%;
+    height: 30px;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 4px;
+}
+.checked{
+    text-decoration: line-through;
+}
+
+.labelElement{
+font-weight: bold;
+width: 70%;
+
+}
+.checkboxElement{
+    width: 20px;
+        height: 20px;
+        margin-top: 24px;
+      
+}
